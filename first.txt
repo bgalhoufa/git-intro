@@ -4,4 +4,5 @@ The best preparation for tomorrow is doing your best today.
 -Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson
 
 
-Este é o teste de conflito com o branch lincoln
+Changes in new branch LINCOLN
+>>>>>>> lincoln
